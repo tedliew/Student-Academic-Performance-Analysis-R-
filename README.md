@@ -1,6 +1,6 @@
-📊 Student Academic Performance Analysis (R)
-A group data analysis project built in R, exploring how behavioural and socioeconomic factors influence university students' final grades.
-
+📊 Student Academic Performance Analysis (R)<br/>
+A group data analysis project built in R, exploring how behavioural and socioeconomic factors influence university students' final grades.<br/>
+<br/>
 **Key highlights:** <br/>
 **Dataset**: 33-variable student prediction dataset covering demographics, family background, study habits, and academic records<br/>
 **Data wrangling**: column renaming, NA removal, deduplication, and factor encoding<br/>
